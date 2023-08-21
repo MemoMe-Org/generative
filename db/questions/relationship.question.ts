@@ -5,7 +5,6 @@ export const relationship = [
     'How do you define commitment?',
     "What do you think you'd be like as a parent?",
     'What concerns you about becoming a parent?',
-    "Do you feel you've found your life purpose?",
     'What values do you hold dear?',
     "What's your greatest fear?",
     'When did you last feel emotional in front of someone?',
