@@ -1,0 +1,1 @@
+export type QuestionType = ('nasty' | 'relationship' | 'normal') | string
