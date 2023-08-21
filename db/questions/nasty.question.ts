@@ -13,15 +13,13 @@ export const nasty = [
     'How often do you masturbate?',
     'What do you fantasize about when you masturbate?',
     'Do you like porn?',
-    'Would you be interested in watching porn with me?',
     'What was your hottest sexual experience',
     'Would you ever have sex in a public place?',
     'Do you like the idea of getting tied up',
-    "What's your favorite part about my body?",
-    'Which part of your body do you want me to touch more?',
+    "What's the favorite part about your body?",
+    'Which part of your body do you want more to be touched?',
     'How do you like to be kissed?',
     'Do you have any kinks, fetishes, or guilty pleasures?',
     'What is your dirtiest sexual fantasy?',
-    "What's the hottest memory you have of us?",
-    "What's one thing you've been wanting me to do to you in bed?"
+    "What's the hottest memory you have of us?"
 ]
