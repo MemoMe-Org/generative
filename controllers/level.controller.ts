@@ -9,7 +9,7 @@ const levels = expressAsyncHandler(async (req: Request, res: Response) => {
     const { point } = req.query
     const { levelType } = req.params
 
-    if (!point || !Number(point) || levelType) {
+    if (!point || !Number(point) || !levelType) {
         return res.sendStatus(400)
     }
 
