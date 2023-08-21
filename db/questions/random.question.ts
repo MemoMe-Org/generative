@@ -8,6 +8,6 @@ const random = {
     relationship
 }
 
-const all = [...nasty, ...normal, ...relationship]
+const all = [...normal, ...relationship, ...nasty]
 
 export { random as randomQuestions, all as allQuestions }
