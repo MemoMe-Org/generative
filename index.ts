@@ -6,7 +6,7 @@ import root from './routes/root.route'
 import cors, { CorsOptions } from 'cors'
 import express, { Application } from 'express'
 
-const PORT = process.env.PORT || 2003
+const PORT = process.env.PORT || 1002
 
 const app: Application = express()
 
@@ -23,4 +23,4 @@ app.use(cors({
 
 app.use('/', root)
 
-app.listen(PORT, () => console.log(`http://localhost:2003`))
+app.listen(PORT, () => console.log(`http://localhost:${PORT}`))
