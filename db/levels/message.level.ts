@@ -12,7 +12,7 @@ export const messageLevels = [
     { id: 11, name: 'Wordsmith Wanderer', pointRange: [200, 220] },
     { id: 12, name: 'Apprentice Entertainer', pointRange: [220, 240] },
     { id: 13, name: 'Jovial Jester', pointRange: [240, 260] },
-    { id: 14, name: 'Artistic Artisan', pointRange: [260, 280] },
+    { id: 14, name: 'Anonymous Aficionado', pointRange: [260, 280] },
     { id: 15, name: 'Merry Message Maven', pointRange: [280, 300] },
     { id: 16, name: 'Whimsical Wordsmith', pointRange: [300, 320] }
 ]
