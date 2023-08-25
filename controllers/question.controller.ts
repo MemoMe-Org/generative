@@ -17,7 +17,7 @@ const question = expressAsyncHandler(async (req: Request, res: Response) => {
         return
     }
 
-    if (choice == "x") {
+    if (choice == "memome") {
         res.status(200).json({
             question: genRandom(getQuestions)
         })
