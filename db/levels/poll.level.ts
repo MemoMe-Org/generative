@@ -1,6 +1,6 @@
 export const pollLevels = [
-    { id: 1, name: 'Anonymous Aficionado', pointRange: [0, 20] },
-    { id: 2, name: 'Enigmatic Engager', pointRange: [20, 40] },
+    { id: 1, name: 'Enigmatic Engager', pointRange: [0, 20] },
+    { id: 2, name: 'Analytical Maestro', pointRange: [20, 40] },
     { id: 3, name: 'Polling Paragon', pointRange: [40, 60] },
     { id: 4, name: 'Whimsical Whisperer', pointRange: [60, 80] },
     { id: 5, name: 'Fun-loving Luminary', pointRange: [80, 100] },
