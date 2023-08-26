@@ -6,7 +6,7 @@ const calculateLevel = (levels: Level[], point: number): string => {
             return level.name
         }
     }
-    return 'Unknown level name.'
+    return 'Unknown level.'
 }
 
 export default calculateLevel

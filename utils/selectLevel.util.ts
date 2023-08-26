@@ -7,8 +7,6 @@ const selectLevel = (levelType: LevelType): Level[] => {
             return levelObj.message
         case 'poll':
             return levelObj.poll
-        case 'overall':
-            return levelObj.overall
         default:
             return []
     }
