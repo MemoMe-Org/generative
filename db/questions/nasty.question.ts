@@ -21,5 +21,4 @@ export const nasty = [
     'How do you like to be kissed?',
     'Do you have any kinks, fetishes, or guilty pleasures?',
     'What is your dirtiest sexual fantasy?',
-    "What's the hottest memory you have of us?"
 ]
