@@ -1,7 +1,7 @@
 export const pollLevels = [
-    { id: 1, name: 'Alluring Adept', pointRange: [0, 89] },
-    { id: 2, name: 'Enigmatic Engager', pointRange: [89, 178] },
-    { id: 3, name: 'Enigmatic Emissary', pointRange: [178, 267] },
+    { id: 1, name: 'Enigmatic Engager', pointRange: [0, 89] },
+    { id: 2, name: 'Enigmatic Emissary', pointRange: [89, 178] },
+    { id: 3, name: 'Alluring Adept', pointRange: [178, 267] },
     { id: 4, name: 'Curious Curator', pointRange: [267, 356] },
     { id: 5, name: 'Curious Connoisseur', pointRange: [356, 445] },
     { id: 6, name: 'Curious Compiler', pointRange: [445, 534] },
