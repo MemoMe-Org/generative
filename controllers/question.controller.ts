@@ -17,7 +17,7 @@ const question = expressAsyncHandler(async (req: Request, res: Response) => {
         return
     }
 
-    if (choice == "memome") {
+    if (choice == 'random') {
         res.status(200).json({
             question: genRandom(getQuestions)
         })
@@ -26,7 +26,7 @@ const question = expressAsyncHandler(async (req: Request, res: Response) => {
 
     if (!Number(choice)) {
         res.status(400).json({
-            msg: "Invalid Choice Made."
+            msg: 'Invalid Choice Made.'
         })
         return
     }
