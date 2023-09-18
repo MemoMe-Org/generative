@@ -26,6 +26,8 @@ export const pollLevels = [
     { id: 25, name: 'Polling Prodigy', pointRange: [2136, 2225] }
 ]
 
+// Scraped Online
+
 // const newLevels = pollLevels.map((levels, index) => {
 //     const lowerBound = index * 89
 //     const upperBound = (index + 1) * 89

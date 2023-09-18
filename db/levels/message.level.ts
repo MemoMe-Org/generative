@@ -25,3 +25,5 @@ export const messageLevels = [
     { id: 24, name: 'Whimsical Wordsmith', pointRange: [736, 768] },
     { id: 25, name: 'Grand Illuminator', pointRange: [768, 800] }
 ]
+
+// Scraped Online
